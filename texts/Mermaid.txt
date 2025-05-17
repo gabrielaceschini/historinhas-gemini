@@ -1,0 +1,30 @@
+graph TD
+    START((Start)) --> ADA[Agenda Decider Agent];
+    ADA --> WA[Writer Agent];
+    ADA --> SDA[Scene Descriptor Agent];
+    WA --> SDA;
+    SDA --> IA[Illustrator Agent];
+    WA --> TA[Translator Agents];
+    TA --> AGA[Audio Generator Agents];
+    IA --> PA[Publisher Agent];
+    TA --> PA;
+    AGA --> PA;
+    PA --> END((End));
+    style START fill:#d3d3d3,stroke:#808080,stroke-width:2px
+    style END fill:#d3d3d3,stroke:#808080,stroke-width:2px
+    style ADA fill:#90ee90,stroke:#006400,stroke-width:2px
+    style WA fill:#90ee90,stroke:#006400,stroke-width:2px
+    style SDA fill:#90ee90,stroke:#006400,stroke-width:2px
+    style IA fill:#ffb6c1,stroke:#ff0000,stroke-width:2px
+    style TA fill:#ffb6c1,stroke:#ff0000,stroke-width:2px
+    style AGA fill:#ffb6c1,stroke:#ff0000,stroke-width:2px
+    style PA fill:#ffb6c1,stroke:#ff0000,stroke-width:2px
+    
+    %% Agent Descriptions
+    note right of ADA: Decides the daily story agenda
+    note right of WA: Writes the children's story
+    note right of SDA: Describes the story scenes for illustration
+    note right of IA: Illustrates the story
+    note right of TA: Translates the story into other languages
+    note right of AGA: Generates the story's audio narration
+    note right of PA: Publishes the story in all formats
