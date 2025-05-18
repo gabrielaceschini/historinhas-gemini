@@ -100,8 +100,19 @@ Este projeto possui a seguinte estrutura de pastas com arquivos importantes a se
 
 ## Contribuição
 
-Agradecemos o seu interesse em "Historinhas do Gemini"! Se você tiver alguma sugestão, ideia ou quiser contribuir com o projeto, entre em contato conosco.
+Tem interesse no projeto "Historinhas do Gemini"? Se você tiver alguma sugestão, ideia ou quiser contribuir com o projeto, entre em contato!
 
 ## Licença
 
 TBD
+
+## Agradecimentos
+
+Obrigada à **Alura** e ao **Google** por terem me permitido participar da **Imersão em Inteligência Artificial** com o Google Gemini, de 12 a 16/05/2025, que me ensinou muito do que usei neste projeto, e que me motivou a preparar este trabalho de conclusão do curso!
+Nos vemos no mundo da computação!
+
+**#HistorinhasDoGemini #IA #ContosInfantis #Multiculturalismo #DesenvolvimentoInfantil #GitHub #ProjetoCriativo #AmoLer #HoraDeDormir #Alura #Google #Gemini #FeitoComAmor**
+
+
+
+
