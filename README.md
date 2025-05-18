@@ -64,7 +64,7 @@ graph TD
 
 **Resumo:** Uma jovem chamada Astrid vive em uma vila na Noruega e está animada para o Dia da Constituição. Quando um desafio inesperado surge, Astrid descobre a importância da perseverança e do "sisu", um valor norueguês, para superar obstáculos.
 
-**(Ver a história completa no arquivo "Results on Google Colab.docx")**
+**(Ver a história completa no arquivo [Resultados em Inglês](texts/Resultados_EN.docx) ou [Resultados em Português](texts/Resultados_PT.docx). Veja uma publicação simulada em [Post do Instagram](html/Post_Example.html))**
 
 ## Imagem Promocional
 
