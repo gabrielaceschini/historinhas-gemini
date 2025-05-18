@@ -64,7 +64,7 @@ graph TD
 
 ## Imagem Promocional
 
-[Image of Crianças de diversas etnias e origens culturais, vestidas em roupas coloridas, de mãos dadas em uma ciranda em um campo florido. O céu ao fundo tem tons pastéis de rosa, azul e amarelo. No centro da imagem, em letras grandes e amigáveis, está o título "Historinhas do Gemini". Abaixo, em letras menores, o subtítulo "Para crianças do mundo todo". Na parte inferior da imagem, um breve resumo do projeto: "Histórias multiculturais de 3 minutos para ler e ouvir na hora de dormir. Promovendo valores e a alegria de aprender juntos!"]
+![Crianças de diversas etnias e origens culturais, vestidas em roupas coloridas, de mãos dadas em uma ciranda em um campo florido. O céu ao fundo tem tons pastéis de rosa, azul e amarelo. No centro da imagem, em letras grandes e amigáveis, está o título "Historinhas do Gemini". Abaixo, em letras menores, o subtítulo "Para crianças do mundo todo". Na parte inferior da imagem, um breve resumo do projeto: "Histórias multiculturais de 3 minutos para ler e ouvir na hora de dormir. Promovendo valores e a alegria de aprender juntos!"](images/historinhas_diurno.png)
 
 ## Tecnologias Utilizadas
 
