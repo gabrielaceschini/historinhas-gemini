@@ -88,9 +88,9 @@ Este projeto possui a seguinte estrutura de pastas com arquivos importantes a se
 
 * [Notebook - Historinhas do Gemini](text/Historinhas_do_Gemini.ipynb): Jupyter Notebook com a implementação da prova de conceito deste projeto (testado no Google Colab).
 
-* **`text/`**: Contém documentos textuais relevantes.
-    * [Plano de Projeto](text/Plano_de_Projeto.docx): Plano de Projeto para o Historinhas do Gemini.
-    * [Resumo Técnico da Solução](text/Resumo_Tecnico_da_Solucao.docx): Detalhes técnicos da arquitetura da solução para o projeto.
+* **`texts/`**: Contém documentos textuais relevantes.
+    * [Plano de Projeto](texts/Plano_de_Projeto.docx): Plano de Projeto para o Historinhas do Gemini.
+    * [Resumo Técnico da Solução](texts/Resumo_Tecnico_da_Solucao.docx): Detalhes técnicos da arquitetura da solução para o projeto.
 
 * **`html/`**: Armazena arquivos HTML importantes para mostrar a solução pretendida e promover a ideia.
 
