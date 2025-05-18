@@ -10,6 +10,10 @@
 
 "Historinhas do Gemini" é um projeto encantador que visa criar e distribuir histórias multiculturais para crianças de 5 a 10 anos. Nosso objetivo é promover a leitura, o aprendizado de valores importantes e a conexão entre pais e filhos através de histórias envolventes e educativas. Utilizamos a tecnologia de IA para auxiliar na criação e distribuição das histórias, tornando o processo mais eficiente e acessível.
 
+## Geração de Valor
+
+Transforme a hora de dormir em um momento mágico! Gemini oferece contos diários que transportam crianças para culturas vibrantes e ensinam valores essenciais, compartilhados com os pais (por exemplo, em posts no Instagram) para criar memórias preciosas.
+
 ## Funcionalidades
 
 * **Histórias Multiculturais:** Histórias que exploram diferentes culturas ao redor do mundo, apresentando personagens e cenários diversos.
