@@ -95,6 +95,8 @@ Este projeto possui a seguinte estrutura de pastas com arquivos importantes a se
 * **`html/`**: Armazena arquivos HTML importantes para mostrar a solução pretendida e promover a ideia.
 
 * **`images/`**: Imagens do projeto.
+    * [ONE PAGER PARA DIVULGAÇÃO](html/One_Pager.html): One Pager para promover o projeto!!
+    * [EXEMPLO DE POST](html/Post_Example.html): Exemplo de post do futuro Agente Publicador!!
 
 ## Contribuição
 
