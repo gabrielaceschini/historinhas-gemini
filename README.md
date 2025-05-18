@@ -86,7 +86,7 @@ graph TD
 
 Este projeto possui a seguinte estrutura de pastas com arquivos importantes a serem observados:
 
-* [Notebook - Historinhas do Gemini](text/Historinhas_do_Gemini.ipynb): Jupyter Notebook com a implementação da prova de conceito deste projeto (testado no Google Colab).
+* [Notebook - Historinhas do Gemini](Historinhas_do_Gemini.ipynb): Jupyter Notebook com a implementação da prova de conceito deste projeto (testado no Google Colab).
 
 * **`texts/`**: Contém documentos textuais relevantes.
     * [Plano de Projeto](texts/Plano_de_Projeto.docx): Plano de Projeto para o Historinhas do Gemini.
