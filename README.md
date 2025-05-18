@@ -93,10 +93,10 @@ Este projeto possui a seguinte estrutura de pastas com arquivos importantes a se
     * [Resumo Técnico da Solução](texts/Resumo_Tecnico_da_Solucao.docx): Detalhes técnicos da arquitetura da solução para o projeto.
 
 * **`html/`**: Armazena arquivos HTML importantes para mostrar a solução pretendida e promover a ideia.
-
-* **`images/`**: Imagens do projeto.
     * [ONE PAGER PARA DIVULGAÇÃO](html/One_Pager.html): One Pager para promover o projeto!!
     * [EXEMPLO DE POST](html/Post_Example.html): Exemplo de post do futuro Agente Publicador!!
+
+* **`images/`**: Imagens do projeto.
 
 ## Contribuição
 
