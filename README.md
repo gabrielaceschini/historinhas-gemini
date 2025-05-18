@@ -82,10 +82,24 @@ graph TD
 * Expansão para outras plataformas de publicação.
 * Criação de mais histórias e conteúdo diversificado.
 
+## Arquivos Importantes
+
+Este projeto possui a seguinte estrutura de pastas com arquivos importantes a serem observados:
+
+* [Notebook - Historinhas do Gemini](text/Historinhas_do_Gemini.ipynb): Jupyter Notebook com a implementação da prova de conceito deste projeto (testado no Google Colab).
+
+* **`text/`**: Contém documentos textuais relevantes.
+    * [Plano de Projeto](text/Plano_de_Projeto.docx): Plano de Projeto para o Historinhas do Gemini.
+    * [Resumo Técnico da Solução](text/Resumo_Tecnico_da_Solucao.docx): Detalhes técnicos da arquitetura da solução para o projeto.
+
+* **`html/`**: Armazena arquivos HTML importantes para mostrar a solução pretendida e promover a ideia.
+
+* **`images/`**: Imagens do projeto.
+
 ## Contribuição
 
 Agradecemos o seu interesse em "Historinhas do Gemini"! Se você tiver alguma sugestão, ideia ou quiser contribuir com o projeto, entre em contato conosco.
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT.
+TBD
